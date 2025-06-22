@@ -23,11 +23,7 @@ The **Pomodoro Box** is a microcontroller-powered, timer-based lockbox. Once you
 
 ---
 
-## 📷 Demo
 
-> *(Insert photo or short video/gif of your setup here if possible)*
-
----
 
 ## 🚀 How It Works
 
